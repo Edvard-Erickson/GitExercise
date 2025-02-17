@@ -7,5 +7,7 @@ public class Main {
             System.out.print(i + " ");
             System.out.println("num");
         }
+
+        System.out.println("ALL DONE");
     }
 }
