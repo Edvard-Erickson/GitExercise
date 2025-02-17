@@ -8,6 +8,6 @@ public class Main {
             System.out.println("num");
         }
 
-        System.out.println("ALL DONE");
+        System.out.println("ALL DONE!");
     }
 }
