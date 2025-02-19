@@ -8,5 +8,6 @@ public class Main {
             System.out.println("num");
         }
         System.out.println("Alex was here");
+        System.out.println("Alex was here2");
     }
 }
