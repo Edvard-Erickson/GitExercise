@@ -7,7 +7,10 @@ public class Main {
             System.out.print(i + " ");
             System.out.println("num");
         }
+
         System.out.println("Alex was here");
         System.out.println("Alex was here2");
+      
+        System.out.println("ALL DONE!");
     }
 }
